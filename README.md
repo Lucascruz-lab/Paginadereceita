@@ -28,8 +28,8 @@ O desafio consiste em criar uma página de receita que apresenta informações s
 
 ### Links
 
-- URL da Solução: [Adicione a URL da sua solução aqui](https://your-solution-url.com)
-- URL do Site ao Vivo: [Adicione a URL do seu site ao vivo aqui](https://your-live-site-url.com)
+- URL da Solução: [Adicione a URL da sua solução aqui](https://github.com/Lucascruz-lab/Paginadereceita)
+- URL do Site ao Vivo: [Adicione a URL do seu site ao vivo aqui](https://lucascruz-lab.github.io/Paginadereceita/)
 
 ## Meu Processo
 
